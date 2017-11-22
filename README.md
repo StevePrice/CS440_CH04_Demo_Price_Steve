@@ -1,6 +1,7 @@
 # CS440_CH04_Demo_Price_Steve
 For CS 440 test
 My justification here
+```
 
 
 
@@ -15,32 +16,34 @@ My justification here
 
 
 
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
